@@ -5,5 +5,5 @@ Treinando jQuery, Bootstrap e afins com @SeraosBolt
 <p>Seja bem vindo, sinta-se em casa, faça seu fork e abra um Pull Request</p>
 
 <h3>Confira também</h3>
-<a href='https://github.com/SeraosBolt' target='_blank'>SeraosBolt</a><br>
-<a href='https://github.com/DelGrau' target='_blank'>DelGrau</a>
+<a href='https://github.com/SeraosBolt' target='blank'>SeraosBolt</a><br>
+<a href='https://github.com/DelGrau' target='blank'>DelGrau</a>
