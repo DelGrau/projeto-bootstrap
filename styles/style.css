@@ -1,0 +1,17 @@
+#frst {
+    background-color: aqua;
+    border-collapse: 1 solid black;
+}
+
+#scnd {
+    background-color: bisque;
+    border-collapse: 1 solid black;
+}
+
+.col-xxl-2{
+    background-color: azure;
+}
+
+div {
+    border: 1px solid black;
+}
